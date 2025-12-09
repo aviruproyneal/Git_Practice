@@ -2,6 +2,7 @@ public class main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("I'm practicing Git and Github!");
+        System.out.println("Now, I'm checking if my code modifications have been added to the Github repository or not.")
     }
 
 }
